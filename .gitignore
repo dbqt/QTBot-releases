@@ -1,0 +1,4 @@
+*.nupkg
+RELEASES
+*.exe
+*.msi
